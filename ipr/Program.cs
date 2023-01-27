@@ -2,7 +2,7 @@
 using static System.Console;
 Clear();
 string[] Method1(string[] input, int x) 
-string[] Method1(string[] input, int x) 
+
 {
     string[] output = new string[Method2(input,x)];
 
@@ -36,3 +36,6 @@ string[] Array()
     Write("Введите значения массива через пробел: ");
     return ReadLine().Split(" ");
 }
+string[] array = Array();
+string[] result = Method1(array, 3);
+WriteLine($"[{string.Join(", ", array)}] -> [{string.Join(", ", result)}]");
