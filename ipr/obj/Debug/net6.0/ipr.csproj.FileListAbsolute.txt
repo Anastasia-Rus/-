@@ -1,0 +1,15 @@
+C:\Users\Петр\Desktop\Новая папка (6)\ipr\bin\Debug\net6.0\ipr.exe
+C:\Users\Петр\Desktop\Новая папка (6)\ipr\bin\Debug\net6.0\ipr.deps.json
+C:\Users\Петр\Desktop\Новая папка (6)\ipr\bin\Debug\net6.0\ipr.runtimeconfig.json
+C:\Users\Петр\Desktop\Новая папка (6)\ipr\bin\Debug\net6.0\ipr.dll
+C:\Users\Петр\Desktop\Новая папка (6)\ipr\bin\Debug\net6.0\ipr.pdb
+C:\Users\Петр\Desktop\Новая папка (6)\ipr\obj\Debug\net6.0\ipr.csproj.AssemblyReference.cache
+C:\Users\Петр\Desktop\Новая папка (6)\ipr\obj\Debug\net6.0\ipr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Петр\Desktop\Новая папка (6)\ipr\obj\Debug\net6.0\ipr.AssemblyInfoInputs.cache
+C:\Users\Петр\Desktop\Новая папка (6)\ipr\obj\Debug\net6.0\ipr.AssemblyInfo.cs
+C:\Users\Петр\Desktop\Новая папка (6)\ipr\obj\Debug\net6.0\ipr.csproj.CoreCompileInputs.cache
+C:\Users\Петр\Desktop\Новая папка (6)\ipr\obj\Debug\net6.0\ipr.dll
+C:\Users\Петр\Desktop\Новая папка (6)\ipr\obj\Debug\net6.0\refint\ipr.dll
+C:\Users\Петр\Desktop\Новая папка (6)\ipr\obj\Debug\net6.0\ipr.pdb
+C:\Users\Петр\Desktop\Новая папка (6)\ipr\obj\Debug\net6.0\ipr.genruntimeconfig.cache
+C:\Users\Петр\Desktop\Новая папка (6)\ipr\obj\Debug\net6.0\ref\ipr.dll
