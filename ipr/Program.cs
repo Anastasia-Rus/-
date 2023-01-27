@@ -1,4 +1,8 @@
-﻿string[] Method1(string[] input, int x) 
+﻿using System;
+using static System.Console;
+Clear();
+string[] Method1(string[] input, int x) 
+string[] Method1(string[] input, int x) 
 {
     string[] output = new string[Method2(input,x)];
 
