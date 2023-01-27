@@ -13,3 +13,22 @@
 
     return output;
 }
+int Method2(string[] input, int x) 
+{
+    int count = 0;
+
+    for(int i = 0; i < input.Length; i++) 
+    {
+        if(input[i].Length <= x) 
+        {
+            count++;
+        }
+    }
+
+    return count;
+}
+string[] Array() 
+{
+    Write("Введите значения массива через пробел: ");
+    return ReadLine().Split(" ");
+}
